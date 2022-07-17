@@ -1,6 +1,7 @@
-package ru.netology;
+package ru.netology.page;
 
 import com.codeborne.selenide.SelenideElement;
+import ru.netology.page.DashboardPage;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$x;
